@@ -1,0 +1,10 @@
+Title: Pulp Fiction
+Year: 1994
+IMDB Rating: 8.9
+Country: USA
+Language: English, Spanish, French
+Plot: The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Actors: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/pulp_fiction/
+=================================================================
